@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Databricks.**
 
-- 👯 I’m looking to collaborate on **I'm interested in any projects that help me grow as a professional, with a particular focus on enhancing my skills in Python.**
+- 👯 I’m looking to collaborate on **any projects that help me grow as a professional, with a particular focus on enhancing my skills in Python.**
 
 - 🤝 I’m looking for help with **Learning and improving my work.**
 
